@@ -49,3 +49,5 @@ pwd
 ls --color=auto
 cd freCodeCamp
 cd freeCodeCamp
+cd freeCodeCamp
+pwd
