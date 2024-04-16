@@ -90,3 +90,4 @@ cd ..
 cd ../..
 ls --color=auto
 clear
+mkdir website
