@@ -51,3 +51,5 @@ cd freCodeCamp
 cd freeCodeCamp
 cd freeCodeCamp
 pwd
+pwd
+ls --color=auto
